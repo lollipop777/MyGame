@@ -3,6 +3,8 @@
 #include "WCGameScene.h"
 #include "WCMenuScene.h"
 
+// tambah komen
+
 USING_NS_CC;
 
 AppDelegate::AppDelegate() {
