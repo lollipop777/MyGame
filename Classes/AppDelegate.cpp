@@ -4,6 +4,7 @@
 #include "WCMenuScene.h"
 
 // tambah komen
+// tambah komen 2
 
 USING_NS_CC;
 
