@@ -5,6 +5,7 @@
 
 // tambah komen
 // tambah komen 2
+// tambah komen 3
 
 USING_NS_CC;
 
